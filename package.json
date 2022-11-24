@@ -1,0 +1,28 @@
+{
+  "name": "randomstringmsg-blackeagle",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBlackEaglex/randomstringmsg-blackeagle.git"
+  },
+  "keywords": [
+    "js",
+    "JavaScript",
+    "random"
+  ],
+  "author": "Roberto Vazquez <roberto_smusic@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xBlackEaglex/randomstringmsg-blackeagle/issues"
+  },
+  "homepage": "https://github.com/xBlackEaglex/randomstringmsg-blackeagle#readme",
+  "bin": {
+    "randomstringmsg-blackeagle": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
